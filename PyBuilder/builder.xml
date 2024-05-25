@@ -1,0 +1,10 @@
+<packages>
+    <package>
+        <name>pyTelegramBotAPI</name>
+        <version>4.17.0</version>
+    </package>
+    <package>
+        <name>numpy</name>
+        <version>latest</version>
+    </package>
+</packages>
